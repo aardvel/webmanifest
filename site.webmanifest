@@ -1,7 +1,7 @@
 {
   "name": "Aardvel Artisanal Skincare",
   "short_name": "Aardvel",
- "start_url": "aardvel.com",
+  "start_url": "/webmanifest/",
   "display": "standalone",
   "background_color": "#FFFCF7",
   "theme_color": "#323232",
@@ -9,15 +9,21 @@
   "icons": [
     {
       "src": "favicon.svg",
-      "sizes": "1080x1080",
+      "sizes": "512x512",
       "type": "image/svg+xml",
       "purpose": "any"
     },
     {
       "src": "favicon.png",
-      "sizes": "180x180",
+      "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
+    },
+    {
+      "src": "favicon-144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
     }
   ],
   "lang": "en-ZA",
