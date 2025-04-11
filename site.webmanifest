@@ -8,13 +8,13 @@
   "description": "Handcrafted small batch botanical bars made in the Cederberg Mountains.",
   "icons": [
     {
-      "src": "favicon.svg",
+      "src": "Aardvel_Logo_AV_Square.svg",
       "sizes": "512x512",
       "type": "image/svg+xml",
       "purpose": "any"
     },
     {
-      "src": "favicon.png",
+      "src": "Aardvel_Logo_AV_Square.svg",
       "sizes": "180x180",
       "type": "image/png",
       "purpose": "maskable"
