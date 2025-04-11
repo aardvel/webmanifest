@@ -23,7 +23,7 @@
       "src": "favicon.png",
       "sizes": "1080x1080",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "maskable"
     }
   ],
   "lang": "en-ZA",
