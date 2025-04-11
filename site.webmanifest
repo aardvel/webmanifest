@@ -12,7 +12,7 @@
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "any"
-    }
+    },
     {
       "src": "favicon.svg",
       "sizes": "512x512",
@@ -24,7 +24,7 @@
       "sizes": "1080x1080",
       "type": "image/png",
       "purpose": "maskable"
-    },
+    }
   ],
   "lang": "en-ZA",
   "orientation": "portrait"
