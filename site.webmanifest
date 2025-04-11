@@ -1,7 +1,7 @@
 {
   "name": "Aardvel Artisanal Skincare",
   "short_name": "Aardvel",
-  "start_url": "/",
+ "start_url": "/webmanifest/",
   "display": "standalone",
   "background_color": "#FFFCF7",
   "theme_color": "#323232",
