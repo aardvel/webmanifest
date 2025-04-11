@@ -8,6 +8,12 @@
   "description": "Handcrafted small batch botanical bars made in the Cederberg Mountains.",
   "icons": [
     {
+      "src": "favicon-144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    }
+    {
       "src": "favicon.svg",
       "sizes": "512x512",
       "type": "image/svg+xml",
@@ -19,12 +25,6 @@
       "type": "image/png",
       "purpose": "maskable"
     },
-    {
-      "src": "favicon-144.png",
-      "sizes": "144x144",
-      "type": "image/png",
-      "purpose": "any"
-    }
   ],
   "lang": "en-ZA",
   "orientation": "portrait"
