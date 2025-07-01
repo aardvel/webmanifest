@@ -1,0 +1,17 @@
+{
+  "name": "Aardvel Artisanal Skincare",
+  "short_name": "Aardvel",
+  "start_url": "/",
+  "display": "standalone",
+  "display_override": ["fullscreen","standalone"],
+  "background_color": "#FFFCF7",
+  "theme_color": "#FFFCF7",
+  "description": "Handcrafted small batch botanical bars made in the Cederberg Mountains.",
+  "icons": [
+    { "src": "favicon-144.png", "sizes": "144x144", "type": "image/png" },
+    { "src": "favicon.svg",      "sizes": "1080x1080","type": "image/svg+xml" },
+    { "src": "favicon.png",      "sizes": "540x540",  "type": "image/png", "purpose": "maskable" }
+  ],
+  "lang": "en-ZA",
+  "orientation": "portrait"
+}
